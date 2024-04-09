@@ -1,0 +1,3 @@
+ldi rega 0x25
+add tmpr
+jmp 0x17
